@@ -1,5 +1,4 @@
-### Welcome to my Github profile!<br>
-## Github Stats
+## Stats
 <br><br>
 ![txgom's Stats](https://github-readme-stats.vercel.app/api?username=txgom&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 <br><br>
